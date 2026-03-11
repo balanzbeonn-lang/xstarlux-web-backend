@@ -1,11 +1,3 @@
-1. Go to your GitHub repo: https://github.com/balanzbeonn-lang/xstarlux-web-backend
-
-2. Click on requirements.txt file
-
-3. Click the ✏️ (pencil/edit) icon
-
-4. Delete ALL content and paste this:
-
 # Core Framework
 fastapi==0.110.1
 uvicorn==0.29.0
